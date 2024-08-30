@@ -31,7 +31,7 @@ Sou um defensor do aprendizado contínuo e frequentemente escrevo sobre minhas d
 
 Estou sempre aberto a novas oportunidades de colaboração e networking. Se você quiser trocar ideias ou discutir um projeto, não hesite em entrar em contato comigo:
 
-- **LinkedIn:** [Joao Max]([[https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/jo%C3%A3o-marques-viana-silva-90595b164)](https://www.linkedin.com/in/jo%C3%A3o-marques-viana-silva-90595b164/)
+- **LinkedIn:** [Joao Max](https://www.linkedin.com/in/jo%C3%A3o-marques-viana-silva-90595b164)
 - **E-mail:** [joaomaxdev@gmail.com](mailto:joaomaxdev@gmail.com)
 
 ## 🎯 Objetivos Futuros

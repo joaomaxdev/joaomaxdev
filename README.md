@@ -19,24 +19,26 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Projetos em Destaque
 
-1. **[FiberSync](https://github.com/joaomaxdev/fibersync)**: Uma aplicação para ISPs que permite o gerenciamento de conexões de fibra óptica. Desenvolvido com React e Node.js, usando Vite para o frontend e um banco de dados PostgreSQL para armazenar informações de rede.
+### [FiberSync](https://github.com/joaomaxdev/fibersync)
+Uma aplicação para ISPs que permite o gerenciamento de conexões de fibra óptica. Desenvolvido com React e Node.js, utilizando Vite para o frontend e um banco de dados PostgreSQL para armazenar informações de rede.
 
-   ![FiberSync Screenshot](https://user-images.githubusercontent.com/12345678/fibersync-screenshot.png)
+![FiberSync Screenshot](https://user-images.githubusercontent.com/12345678/fibersync-screenshot.png)
 
-2. **[Scan App](https://github.com/joaomaxdev/scan-app)**: Aplicação móvel desenvolvida com React Native e Expo, que usa a câmera do dispositivo para escanear códigos seriais de dispositivos de rede. Ideal para inventários e gerenciamento de equipamentos.
+### [Scan App](https://github.com/joaomaxdev/scan-app)
+Aplicação móvel desenvolvida com React Native e Expo, que usa a câmera do dispositivo para escanear códigos seriais de dispositivos de rede. Ideal para inventários e gerenciamento de equipamentos.
 
 ## 📚 Blog & Aprendizado Contínuo
 
-Sou um defensor do aprendizado contínuo e frequentemente escrevo sobre minhas descobertas e experiências. Confira meu blog para artigos sobre DevOps, redes, e desenvolvimento de software:
+Sou um defensor do aprendizado contínuo e frequentemente escrevo sobre minhas descobertas e experiências. Em breve, compartilharei artigos sobre DevOps, redes e desenvolvimento de software no meu blog.
 
-- [Blog Técnico](#) (em breve)
+- [Blog Técnico](#) *(em breve)*
 
 ## 💬 Vamos Conectar!
 
-Estou sempre aberto a novas oportunidades de colaboração e networking. Se você quiser trocar ideias ou discutir um projeto, não hesite em entrar em contato comigo:
+Estou sempre aberto a novas oportunidades de colaboração e networking. Se quiser trocar ideias ou discutir um projeto, não hesite em entrar em contato comigo:
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)
-- **E-mail:** [seuemail@example.com](mailto:seuemail@example.com)
+- **LinkedIn:** [João Marques Viana Silva](https://www.linkedin.com/in/jo%C3%A3o-marques-viana-silva-90595b164/)
+- **E-mail:** [joaomaxdev@gmail.com](mailto:joaomaxdev@gmail.com)
 
 ## 🎯 Objetivos Futuros
 

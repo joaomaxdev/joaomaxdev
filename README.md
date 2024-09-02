@@ -9,46 +9,46 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🔧 Tecnologias e Ferramentas
 
 - **DevOps:**  
-  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
-  ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)  
-  ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
-  ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" alt="Docker"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30px" alt="Kubernetes"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" alt="GitHub Actions"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="30px" alt="Jenkins"/>
 
 - **Redes:**  
-  ![MikroTik](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/router/router-original.svg)  
-  ![Huawei](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huawei/huawei-original.svg)  
-  ![GPON](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internet/internet-original.svg)  
-  ![VPN](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shield/shield-original.svg)  
-  ![Zabbix](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg)  
-  ![GWN Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/router/router-original.svg" width="30px" alt="MikroTik"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huawei/huawei-original.svg" width="30px" alt="Huawei"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internet/internet-original.svg" width="30px" alt="GPON"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shield/shield-original.svg" width="30px" alt="VPN"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" width="30px" alt="Zabbix"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg" width="30px" alt="GWN Cloud"/>
 
 - **Linguagens de Programação:**  
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
-  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-  ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)  
-  ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="JavaScript"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px" alt="Bash"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" alt="SQL"/>
 
 - **Frontend:**  
-  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
-  ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)  
-  ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
-  ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg)  
-  ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
-  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
-  ![Bulma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="React"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" alt="Redux"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="React Native"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30px" alt="Vite"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="HTML"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="CSS"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-original.svg" width="30px" alt="Bulma"/>
 
 - **Backend:**  
-  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
-  ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
-  ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)  
-  ![SQLAlchemy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" alt="Node.js"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px" alt="Express"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30px" alt="Flask"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="30px" alt="SQLAlchemy"/>
 
 - **Outros:**  
-  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
-  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
-  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)  
-  ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)  
-  ![Android SDK](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="Git"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" alt="GitHub"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" alt="Linux"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30px" alt="Flutter"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30px" alt="Android SDK"/>
 
 ## 🚀 Projetos em Destaque
 

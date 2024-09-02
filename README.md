@@ -8,12 +8,47 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🔧 Tecnologias e Ferramentas
 
-- **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
-- **Redes:** MikroTik, Huawei, GPON, VPN, Zabbix, GWN Cloud
-- **Linguagens de Programação:** JavaScript, Python, Bash, SQL
-- **Frontend:** React, Redux, React Native, Vite, HTML, CSS, Bulma
-- **Backend:** Node.js, Express, Flask, SQLAlchemy
-- **Outros:** Git, GitHub, Linux (WSL2), Flutter, Android SDK
+- **DevOps:**  
+  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+  ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)  
+  ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+  ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
+
+- **Redes:**  
+  ![MikroTik](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/router/router-original.svg)  
+  ![Huawei](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huawei/huawei-original.svg)  
+  ![GPON](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internet/internet-original.svg)  
+  ![VPN](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shield/shield-original.svg)  
+  ![Zabbix](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg)  
+  ![GWN Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg)
+
+- **Linguagens de Programação:**  
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+  ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)  
+  ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+- **Frontend:**  
+  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+  ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)  
+  ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+  ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg)  
+  ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+  ![Bulma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-original.svg)
+
+- **Backend:**  
+  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+  ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
+  ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)  
+  ![SQLAlchemy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg)
+
+- **Outros:**  
+  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)  
+  ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)  
+  ![Android SDK](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)
 
 ## 🚀 Projetos em Destaque
 
@@ -49,5 +84,11 @@ Estou sempre aberto a novas oportunidades de colaboração e networking. Se voc�
 - Contribuir para projetos open source focados em automação e infraestrutura.
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Messias/Dev-Messias/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Messias/Dev-Messias/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Messias/Dev-Messias/output/github-contribution-grid-snake.svg">
+</picture>
 
 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos! 🚀
